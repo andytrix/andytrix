@@ -5,7 +5,7 @@ I’m a developer with a passion for creating fun and interactive games, combini
 
 💬 I’m looking to collaborate on open-source projects, especially related to game development and hardware prototypes.  
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/andreaskotala)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreaskotala)
 
 ⚡ Fun fact: I love creating and playing games, and I'm always excited to bring ideas to life through electronics!
 
