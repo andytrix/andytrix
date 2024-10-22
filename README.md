@@ -14,8 +14,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/andreaskotala).
 I love creating and playing games, and I'm always excited to bring ideas to life through electronics!
 
 ## 🚀 Projects
-- **[SpedenSpelit](https://github.com/andytrix/SpedenSpelit)** - A reaction-based game built with Arduino.
 - **[RagdollPhysicsPrototype](https://github.com/andytrix/RagdollPhysicsPrototype)** - GML prototype of ragdoll physics and character movement.
+- **[SpedenSpelit](https://github.com/andytrix/SpedenSpelit)** - A reaction-based game built with Arduino.
 
 <!---
 andytrix/andytrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
