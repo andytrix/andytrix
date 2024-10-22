@@ -15,6 +15,7 @@ I love creating and playing games, and I'm always excited to bring ideas to life
 
 ## 🚀 Projects
 - **[SpedenSpelit](https://github.com/andytrix/SpedenSpelit)** - A reaction-based game built with Arduino.
+- **[RagdollPhysicsPrototype](https://github.com/andytrix/RagdollPhysicsPrototype)** - GML prototype of ragdoll physics and character movement.
 
 <!---
 andytrix/andytrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
