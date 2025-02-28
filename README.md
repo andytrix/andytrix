@@ -14,6 +14,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/andreaskotala).
 I love creating and playing games, and I'm always excited to bring ideas to life through electronics!
 
 ## 🚀 Projects
+- **[atm-cash-machine](https://github.com/andytrix/atm-cash-machine)** - An advanced ATM simulator with secure transactions, PIN authentication, and realistic banking features.
 - **[RagdollPhysicsPrototype](https://github.com/andytrix/RagdollPhysicsPrototype)** - GML prototype of ragdoll physics and character movement.
 - **[SpedenSpelit](https://github.com/andytrix/SpedenSpelit)** - A reaction-based game built with Arduino.
 
