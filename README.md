@@ -16,6 +16,7 @@ I love creating and playing games, and I'm always excited to bring ideas to life
 ## 🚀 Projects
 - **[atm-cash-machine](https://github.com/andytrix/atm-cash-machine)** - An advanced ATM simulator with secure transactions, PIN authentication, and realistic banking features.
 - **[RagdollPhysicsPrototype](https://github.com/andytrix/RagdollPhysicsPrototype)** - GML prototype of ragdoll physics and character movement.
+- **[weather-app](https://github.com/andytrix/weather-app)** - Responsive weather app with real-time data and a built-in StormDodger mini-game.
 - **[SpedenSpelit](https://github.com/andytrix/SpedenSpelit)** - A reaction-based game built with Arduino.
 
 <!---
