@@ -14,6 +14,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/andreaskotala).
 I love creating and playing games, and I'm always excited to bring ideas to life through electronics!
 
 ## 🚀 Projects
+- **[MovieApp-FullStack](https://github.com/andytrix/MovieApp-FullStack)** - A modern platform for discovering, reviewing, and sharing movies. Built with React, Node.js and PostgreSQL.
 - **[atm-cash-machine](https://github.com/andytrix/atm-cash-machine)** - An advanced ATM simulator with secure transactions, PIN authentication, and realistic banking features.
 - **[RagdollPhysicsPrototype](https://github.com/andytrix/RagdollPhysicsPrototype)** - GML prototype of ragdoll physics and character movement.
 - **[weather-app](https://github.com/andytrix/weather-app)** - Responsive weather app with real-time data and a built-in StormDodger mini-game.
