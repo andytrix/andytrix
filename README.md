@@ -14,6 +14,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/andreaskotala).
 I love creating and playing games, and I'm always excited to bring ideas to life through electronics!
 
 ## 🚀 Projects
+- **[talofix-react-native](https://github.com/andytrix/talofix-react-native)** - TaloFix is a mobile application for housing companies, residents, maintenance teams, and service partners.
 - **[holiday-calendar](https://github.com/andytrix/holiday-calendar.git)** - Holiday Calendar is a native Android application that allows users to browse public holidays by country and year.
 - **[MovieApp-FullStack](https://github.com/andytrix/MovieApp-FullStack)** - A modern platform for discovering, reviewing, and sharing movies. Built with React, Node.js and PostgreSQL.
 - **[applied-physics-walk-analysis](https://github.com/andytrix/applied-physics-walk-analysis.git)** - Työ on tehty OAMK:n Soveltava fysiikka ohjelmoinnissa -kurssin loppuprojektina.
